@@ -27,7 +27,7 @@
         position: relative;
         font-size: 30px;
         text-decoration: none;
-        color: red;
+        color: black;
         padding: 6px 20px;
         transition: .5s;
       }
@@ -183,7 +183,7 @@
     position: relative;
     font-size: 15px;
     text-decoration: none;
-    color: red;
+    color: black;
     padding: 6px 8px;
     transition: .5s;
   }
